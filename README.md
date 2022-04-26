@@ -1,4 +1,4 @@
-# Bug-Tracker
+# Issue-Tracker
 
 Our project will consist of developing a Bug Tracker. The program would allow users to submit any issue and the priority of the issue (whether low, medium, high). Then there would be an admin side to manage and resolve the issue. This would be similar to the system used by the ITS department of the university or any other help desk ticketing system. Since there is a time constraint, we will ensure to focus our time on developing primary features. These primary features might consist of:
 
